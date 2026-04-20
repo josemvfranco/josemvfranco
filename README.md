@@ -20,8 +20,7 @@ Sou um profissional multidisciplinar focado em unir a precisão da análise jur�
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=radical)
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=josemvfranco&show_icons=true&theme=radical)
 ---
 
 ### 📫 Como me encontrar
