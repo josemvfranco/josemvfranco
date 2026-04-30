@@ -1,6 +1,6 @@
 # Olá, eu sou o José Franco! 👋
 
-### Advogado e Desenvolvedor de Sistemas em transição para Engenharia de Computação
+### Formado em Direito e Desenvolvedor de Sistemas em transição para Engenharia de Computação
 
 Sou um profissional multidisciplinar focado em unir a precisão da análise jurídica com a eficiência do desenvolvimento de software. Atualmente, foco em backend com **Java (Spring Boot)**, **SAP** e soluções em **Web3**.
 
